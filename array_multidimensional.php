@@ -13,6 +13,7 @@
 //$alunos[3] = ['id' => 4, 'nome'=>'Rafael'];
 
 //foreach ($alunos as $aluno) {
+
 //	echo "<h5>{$aluno['id']} - {$aluno['nome']}";
 
 $meses = ['janeiro','Fevereiro','Março','Abril','maio','junho','julho','agosto','setembro','outubro','Novembro','Dezembro'];
